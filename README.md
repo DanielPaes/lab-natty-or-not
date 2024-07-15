@@ -22,7 +22,7 @@ tive que interagir pelo prompt solicitando uma mudança na abordagem da apresent
 Após 5 comandos, o texto ficou da forma que imaginei.  
 
 ## 🚀 Resultados
-O projeto foi realizado de maneira rápida e, até pelo que conheço do assunto, não há grandes equívocos
+O projeto foi realizado de maneira rápida e, até onde conheço do assunto, não há grandes equívocos
 no material. O guia pode ser usado para consultas rápidas e como complemento no estudo do tema.
 
 ## 💭 Reflexão (Opcional)
