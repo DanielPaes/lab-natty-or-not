@@ -9,7 +9,8 @@
 
 ## 📒 Descrição
 Hoje existem diversos tipos de design patterns disponíveis aos desenvolvedores.
-Para facilitar um pouco o entedimento de 
+Para facilitar um pouco o entedimento de um assunto vasto, criei junto com o chatgpt
+um pequeno guia dos Design Patterns em Projetos de Software.
 
 ## 🤖 Tecnologias Utilizadas
 O texto e estruturação do guia são obras do chat gpt.
